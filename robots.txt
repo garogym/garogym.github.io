@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://garogym.github.io/sitemap
+Sitemap: https://garogym.github.io/app/sitemap
+Sitemap: https://garogym.github.io/assets/sitemap
+Sitemap: https://garogym.github.io/css/sitemap
+Sitemap: https://garogym.github.io/includes/sitemap
+Sitemap: https://garogym.github.io/item/sitemap
+Sitemap: https://garogym.github.io/src/sitemap
